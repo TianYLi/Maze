@@ -1,5 +1,4 @@
 Maze
 ====
-
-A Maze \n
+A Maze
 Eventually there will be stuff here.
